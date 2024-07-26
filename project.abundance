@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "circle_test",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 1722011843801,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "Inches",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
