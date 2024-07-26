@@ -6,7 +6,16 @@
     "uniqueID": 1722011843801,
     "ioValues": [],
     "topLevel": true,
-    "allAtoms": [],
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.98,
+            "y": 0.5,
+            "uniqueID": 1722011852500,
+            "ioValues": []
+        }
+    ],
     "allConnectors": [],
     "unitsKey": "Inches",
     "fileTypeVersion": 1,
