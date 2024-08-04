@@ -54,6 +54,23 @@
             "allConnectors": [],
             "fileTypeVersion": 1,
             "compiledBom": {}
+        },
+        {
+            "atomType": "Export",
+            "name": "Export",
+            "x": 0.5563839701770736,
+            "y": 0.6686930091185411,
+            "uniqueID": 1722801957826,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": 1722012377351
+                }
+            ],
+            "type": null,
+            "resolution": 72,
+            "importIndex": 0,
+            "fileName": null
         }
     ],
     "allConnectors": [
@@ -63,6 +80,13 @@
             "ap2Primary": false,
             "ap1ID": 1722012377351,
             "ap2ID": 1722011852500
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 1722012377351,
+            "ap2ID": 1722801957826
         }
     ],
     "unitsKey": "Inches",
