@@ -65,6 +65,18 @@
                 {
                     "name": "geometry",
                     "ioValue": 1722012377351
+                },
+                {
+                    "name": "Resolution (dpi)",
+                    "ioValue": 72
+                },
+                {
+                    "name": "Part Name",
+                    "ioValue": "Part Name"
+                },
+                {
+                    "name": "File Type",
+                    "ioValue": "SVG"
                 }
             ],
             "type": null,
